@@ -20,9 +20,8 @@ This project brings us to learn and undestand the different CSS framework.
 - Version Control, Github Flow
 - Introduction to HTML5, CSS3, Bootstrap.
 - Position, Flex, Grid, Floats, RWD
-
-![screenshot](assets/images/milestone-1.png)
-
+![screenshot](img/screenshot.png)
+![screenshot](img/screenshot2.png)
 >## Built With
 
 - Major languages: HTML5, CSS3
@@ -30,9 +29,13 @@ This project brings us to learn and undestand the different CSS framework.
 - Technologies used: Responsive Web Design
 
 >## Live Demo
+<<<<<<< HEAD
 
 [Live Demo Link](https://smy5152.github.io/newsweek-clone-wk3/)
 
+=======
+[Live Demo Link](https://anvi98.github.io/Project-3-Newsweek/)
+>>>>>>> 06d1c59f51525fdc32096033d174333d344b7178
 >## Getting started
 
 - npm install bootstrap
