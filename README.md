@@ -55,7 +55,7 @@ This project brings us to learn and undestand the different CSS framework.
   
 >## Authors
 
-👤 **Alex E**
+👤 **Alex **
 
 - GitHub: [@smy5152](https://github.com/smy5152)
 - Twitter: [@smy5152](https://twitter.com/smy5152)

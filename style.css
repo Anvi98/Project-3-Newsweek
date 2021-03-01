@@ -2,6 +2,9 @@ body {
   overflow-x: hidden;
 }
 
+footer, header {
+  margin: 30px;
+}
 main {
   height: 1000px;
 }
@@ -40,7 +43,19 @@ img {
 
 .rounded-pill {
   background-color: #ffe400;
-  height: 30px;
+  height: 40px;
+  margin: 0 20px;
+}
+
+.top_menu {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0 10px 0;
+}
+
+.top_menu:hover {
+  color: #f72210;
+  cursor: pointer;
 }
 
 .search-input {
@@ -68,6 +83,7 @@ img {
 .subscribe-img-top {
   z-index: 1;
   margin-left: -150px;
+  marg
 }
 
 @media screen and (max-width: 1024px) {
