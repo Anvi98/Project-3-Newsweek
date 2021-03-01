@@ -4,6 +4,12 @@ body {
 
 main {
   height: 1000px;
+  margin: 30px;
+  background-color: #f4f5f6;
+}
+
+header {
+  margin: 30px;
 }
 
 img {
@@ -229,10 +235,9 @@ img {
 
 
 /* FOOTER CSS */
-
-
-
-
+footer {
+  margin: 30px;
+}
 .footer_top {
   background-color: #f4f5f6;
   color: #666;
