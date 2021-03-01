@@ -16,6 +16,7 @@ This project brings us to learn and undestand the different CSS framework.
 - Introduction to HTML5, CSS3, Bootstrap.
 - Position, Flex, Grid, Floats, RWD
 ![screenshot](img/screenshot.png)
+![screenshot](img/screenshot2.png)
 >## Built With
 - Major languages: HTML5, CSS3
 - Frameworks: Bootstrap, Github flow, Mobile First Approach
