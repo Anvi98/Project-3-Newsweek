@@ -2,9 +2,11 @@ body {
   overflow-x: hidden;
 }
 
-footer, header {
+footer,
+header {
   margin: 30px;
 }
+
 main {
   height: 1000px;
 }
@@ -236,10 +238,6 @@ img {
     padding-top: 0.75rem !important;
   }
 
-  .footer-copyright {
-    padding-top: 1rem !important;
-  }
-
   .footer-social {
     font-size: 20px;
     padding-top: 0.75rem !important;
@@ -275,6 +273,7 @@ img {
     line-height: 12px;
     text-transform: uppercase;
     color: #666;
+    padding-top: 1rem !important;
   }
 
   .footer-social,
