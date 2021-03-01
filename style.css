@@ -2,9 +2,13 @@
 .footer_top {
   background-color: #f4f5f6;
   color: #666;
+  margin: 0 30px;
   padding-top: 30px;
 }
 
+.footer_sep {
+  display: none;
+}
 .left {
   flex-wrap: wrap;
   padding: 0;
@@ -91,7 +95,19 @@
   .right ul {
     border-bottom: none;
   }
+  .footer_sep {
+    display: block;
+    border: 1px solid #adadad;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f5f6;
+    color: #f4f5f6;
+    line-height: 0;
+  }
 
+  .links {
+    padding-top: 20px;
+  }
   .social {
     float: right;
   }
