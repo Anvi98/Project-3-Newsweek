@@ -14,14 +14,16 @@ img {
 }
 
 .body-wrapper {
+  height: auto;
   width: 1210px;
   margin: 0 auto;
 }
 
 .header-wrapper {
-  height: 100px;
+  height: auto;
   color: white;
   background-color: #f72210;
+  padding: 20px 0;
 }
 
 .font-head a {
@@ -83,13 +85,12 @@ img {
 .subscribe-img-top {
   z-index: 1;
   margin-left: -150px;
-  marg
 }
 
 @media screen and (max-width: 1024px) {
   .body-wrapper {
     width: 100%;
-    margin: 0 auto;
+    margin: 0;
   }
 
   .btn-box {
@@ -99,7 +100,6 @@ img {
 
 @media screen and (max-width: 992px) {
   .header-wrapper {
-    height: 50px;
     color: white;
     background-color: #f72210;
     max-width: 1310px;
