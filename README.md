@@ -22,7 +22,7 @@ This project brings us to learn and undestand the different CSS framework.
 - Frameworks: Bootstrap, Github flow, Mobile First Approach
 - Technologies used: Responsive Web Design
 >## Live Demo
-[Live Demo Link](https://smy5152.github.io/newsweek-clone-wk3/)
+[Live Demo Link](https://anvi98.github.io/Project-3-Newsweek/)
 >## Getting started
 - npm install bootstrap
 ### Prerequisites
