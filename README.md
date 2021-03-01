@@ -54,15 +54,12 @@ This project brings us to learn and undestand the different CSS framework.
 - Open the index.html file with the browser of your preference.
   
 >## Authors
+ 👤 **Alex E**
+- GitHub: [@Anvi98](https://github.com/Anvi98)
+- Twitter: [@anvi_al](https://twitter.com/anvi_al)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anvi-alex-eponon/)
 
-👤 **Alex **
-
-- GitHub: [@smy5152](https://github.com/smy5152)
-- Twitter: [@smy5152](https://twitter.com/smy5152)
-- LinkedIn: [Shabbir Yamani](https://www.linkedin.com/in/shabbirmyamani/)
-
-👤 **Eri-Ngozi Okereafor**
-
+ 👤 **Eri-Ngozi Okereafor**
 - GitHub: [@errea](https://github.com/errea)
 - Twitter: [@Erreakay](https://twitter.com/Erreakay)
 - LinkedIn: [eri-ngozi-okereafor](https://www.linkedin.com/in/eri-ngozi-okereafor/)
