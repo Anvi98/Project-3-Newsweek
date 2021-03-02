@@ -20,7 +20,7 @@ This project brings us to learn and undestand the different CSS framework.
 - Version Control, Github Flow
 - Introduction to HTML5, CSS3, Bootstrap.
 - Position, Flex, Grid, Floats, RWD
-![screenshot](img/screenshot.png)
+![screenshot](img/screenshot1.png)
 ![screenshot](img/screenshot2.png)
 >## Built With
 
