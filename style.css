@@ -50,6 +50,7 @@ img {
   padding: 0 10px;
 }
 
+
 .suscribe_button {
   width: 130px;
   border-radius: 24px;
@@ -66,11 +67,7 @@ img {
   font-size: 14px;
 }
 
-<<<<<<< HEAD .top_nav {
-  margin: auto;
-}
-
-=======>>>>>>>eb6a9e43d6934e587cdba16c61ca7ffba5a9d7b7 .logo-head {
+.logo-head {
   color: #fff;
   fill: white;
   width: 400px;
@@ -102,19 +99,12 @@ img {
   color: #f72210;
 }
 
-<<<<<<< HEAD
-.vantage {
-  border: none;
-}
-
-=======
->>>>>>> 40d1d7d08869ba9a83073e7a0e4fe75ef36af401
 .search_input {
   background-image: url("img/search.png");
   background-size: 20px 20px;
   background-repeat: no-repeat;
   background-position-x: right;
-  background-position-y: center;
+  background-position-y:center;
   width: 200px;
 }
 
@@ -149,9 +139,11 @@ img {
     max-width: 1310px;
     margin: 0;
   }
+
   .btn-box {
     margin-bottom: 0;
   }
+  
 }
 
 @media screen and (max-width: 992px) {
@@ -160,7 +152,9 @@ img {
     background-color: #f72210;
     max-width: 1310px;
   }
-  <<<<<<< HEAD=======>>>>>>>eb6a9e43d6934e587cdba16c61ca7ffba5a9d7b7 .logo-head {
+  
+
+  .logo-head {
     width: 150px;
     padding-top: 0 !important;
     margin-top: 20px;
@@ -174,12 +168,7 @@ img {
   background-color: #f4f5f6;
   color: #666;
   margin: 0 30px;
-  padding-left: 30px;
-}
-
-.page-footer {
-  padding-bottom: 30px;
-  background-color: white;
+  padding-top: 30px;
 }
 
 .footer_sep {
@@ -272,9 +261,11 @@ img {
   .right ul {
     border-bottom: none;
   }
+
   .logo-head {
     margin-left: 100px;
   }
+  
   .footer_sep {
     display: block;
     border: 1px solid #8a8a8a;
@@ -284,40 +275,50 @@ img {
     color: #f4f5f6;
     line-height: 0;
   }
+
   .links {
     padding-top: 20px;
   }
+
   .social {
     float: right;
   }
-  .footer-links>li {
+
+  .footer-links > li {
     border-right: none !important;
     padding-top: 0.75rem !important;
   }
+
   .footer-social {
     font-size: 20px;
     padding-top: 0.75rem !important;
   }
+
   .btn-box {
     margin-right: 0;
   }
+
   .foot-a {
     text-decoration: none !important;
     color: #6c757d !important;
   }
+
   .footer-links {
     font-size: 0.85rem;
     line-height: 14px;
     padding-right: 1rem !important;
   }
+
   .footer-section {
     border-top: 1px solid #666;
   }
+
   .logo-footer {
     color: #fff;
     fill: #f72210;
     width: 236px;
   }
+
   .footer-copyright {
     font-size: 0.8rem;
     line-height: 12px;
@@ -325,15 +326,18 @@ img {
     color: #666;
     padding-top: 1rem !important;
   }
+
   .footer-social,
   .footer-social a {
     font-size: 26px !important;
     color: grey;
     text-decoration: none !important;
   }
+
   .footer-wrap a {
     font-size: 13px;
   }
+
   .vs-circle {
     width: 30px;
     height: 30px;
@@ -342,9 +346,11 @@ img {
     margin-bottom: -15px;
     z-index: 1;
   }
+
   .btn-danger {
     background-color: #f72310;
   }
+
   .text-danger {
     color: #f72310;
   }
