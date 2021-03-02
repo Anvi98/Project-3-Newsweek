@@ -6,7 +6,7 @@ body {
 
 main {
   height: 1000px;
-  background-color: #f4f5f6;
+  background-color: #b7dbff;
   width: 91%;
   margin: auto;
 }
@@ -16,6 +16,10 @@ header {
   margin: 65px 0;
 }
 
+footer {
+  width: 89.3%;
+  margin: auto;
+}
 img {
   cursor: pointer;
 }
