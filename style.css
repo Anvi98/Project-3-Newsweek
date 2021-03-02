@@ -45,6 +45,9 @@ img {
   font-size: 14px;
 }
 
+.top_nav {
+  margin: auto;
+}
 .logo-head {
   color: #fff;
   fill: white;
