@@ -7,7 +7,7 @@ body {
 main {
   height: 1000px;
   background-color: #b7dbff;
-  width: 91%;
+  width: 100%;
   margin: auto;
 }
 
@@ -17,7 +17,7 @@ header {
 }
 
 footer {
-  width: 89.3%;
+  width: 100%;
   margin: auto;
 }
 
@@ -43,7 +43,7 @@ img {
 .header-wrapper {
   height: 100px;
   color: white;
-  width: 91%;
+  width: 100%;
   margin: auto;
   background-color: #f72210;
   padding: 0 10px;
@@ -129,32 +129,6 @@ img {
 .subscribe-img-top {
   z-index: 1;
   margin-left: -150px;
-}
-
-@media screen and (max-width: 1024px) {
-  .body-wrapper {
-    width: 100%;
-    max-width: 1310px;
-    margin: 0;
-  }
-
-  .btn-box {
-    margin-bottom: 0;
-  }
-}
-
-@media screen and (max-width: 992px) {
-  .header-wrapper {
-    color: white;
-    background-color: #f72210;
-    max-width: 1310px;
-  }
-
-  .logo-head {
-    width: 150px;
-    padding-top: 0 !important;
-    margin-top: 20px;
-  }
 }
 
 /* FOOTER CSS */
@@ -257,6 +231,29 @@ img {
     border-bottom: none;
   }
 
+  footer {
+    width: 89.3%;
+    margin: auto;
+  }
+
+  .header-wrapper {
+    width: 91%;
+    margin: auto;
+  }
+
+  main {
+    width: 91%;
+    margin: auto;
+  }
+
+  .suscribe_button {
+    margin-bottom: 35px;
+  }
+
+  .login {
+    margin-bottom: 33px;
+  }
+
   .logo-head {
     margin-left: 100px;
   }
@@ -333,6 +330,16 @@ img {
     font-size: 13px;
   }
 
+  .body-wrapper {
+    width: 100%;
+    max-width: 1310px;
+    margin: 0;
+  }
+
+  .btn-box {
+    margin-bottom: 0;
+  }
+
   .vs-circle {
     width: 30px;
     height: 30px;
@@ -348,5 +355,17 @@ img {
 
   .text-danger {
     color: #f72310;
+  }
+
+  .header-wrapper {
+    color: white;
+    background-color: #f72210;
+    max-width: 1310px;
+  }
+
+  .logo-head {
+    width: 150px;
+    padding-top: 0 !important;
+    margin-top: 20px;
   }
 }
