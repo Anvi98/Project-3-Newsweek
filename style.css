@@ -26,7 +26,6 @@ img {
 }
 
 .top_nav2 {
-  margin: 0;
   width: 91%;
   margin: auto;
 }
@@ -49,7 +48,6 @@ img {
   background-color: #f72210;
   padding: 0 10px;
 }
-
 
 .suscribe_button {
   width: 130px;
@@ -92,7 +90,7 @@ img {
   font-size: 15px;
   font-weight: bold;
   color: #666;
-  padding: 0 5px
+  padding: 0 5px;
 }
 
 .top_menu2:hover {
@@ -104,7 +102,7 @@ img {
   background-size: 20px 20px;
   background-repeat: no-repeat;
   background-position-x: right;
-  background-position-y:center;
+  background-position-y: center;
   width: 200px;
 }
 
@@ -143,7 +141,6 @@ img {
   .btn-box {
     margin-bottom: 0;
   }
-  
 }
 
 @media screen and (max-width: 992px) {
@@ -152,7 +149,6 @@ img {
     background-color: #f72210;
     max-width: 1310px;
   }
-  
 
   .logo-head {
     width: 150px;
@@ -160,7 +156,6 @@ img {
     margin-top: 20px;
   }
 }
-
 
 /* FOOTER CSS */
 
@@ -265,7 +260,7 @@ img {
   .logo-head {
     margin-left: 100px;
   }
-  
+
   .footer_sep {
     display: block;
     border: 1px solid #8a8a8a;
