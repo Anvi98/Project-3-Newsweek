@@ -2,15 +2,14 @@ body {
   overflow-x: hidden;
 }
 
-footer,
-header {
-  margin: 30px;
-}
-
 main {
   height: 1000px;
 }
 
+header {
+  width: 100%;
+  margin: 60px 0;
+}
 img {
   cursor: pointer;
 }
@@ -22,10 +21,24 @@ img {
 }
 
 .header-wrapper {
-  height: auto;
+  height: 100px;
   color: white;
+  width: 91%;
+  margin: auto;
   background-color: #f72210;
-  padding: 20px 0;
+  padding: 0 10px;
+}
+
+
+.suscribe_button {
+  width: 130px;
+  border-radius: 24px;
+  font-size: 18px;
+  line-height: 30px;
+  border: none;
+  background-color: #ffe400;
+  margin: 5px 10px;
+  font-weight: bold;
 }
 
 .font-head a {
@@ -43,12 +56,6 @@ img {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5rem;
-}
-
-.rounded-pill {
-  background-color: #ffe400;
-  height: 40px;
-  margin: 0 20px;
 }
 
 .top_menu {
@@ -80,10 +87,6 @@ img {
   margin-right: 1rem;
 }
 
-.btn-box button {
-  font-size: 14px;
-}
-
 .subscribe-img-top {
   z-index: 1;
   margin-left: -150px;
@@ -92,6 +95,7 @@ img {
 @media screen and (max-width: 1024px) {
   .body-wrapper {
     width: 100%;
+    max-width: 1310px;
     margin: 0;
   }
 
@@ -105,7 +109,6 @@ img {
     color: white;
     background-color: #f72210;
     max-width: 1310px;
-    padding: 10px;
   }
 
   .logo-head {
@@ -215,6 +218,10 @@ img {
     border-bottom: none;
   }
 
+  .logo-head {
+    margin-left: 100px;
+  }
+  
   .footer_sep {
     display: block;
     border: 1px solid #8a8a8a;
