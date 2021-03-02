@@ -119,7 +119,7 @@ img {
   z-index: 1;
 }
 
-.category-label>a {
+.category-label > a {
   color: #f72210 !important;
 }
 
@@ -129,7 +129,7 @@ img {
   margin-bottom: 10px;
 }
 
-.article-wrap>a {
+.article-wrap > a {
   text-decoration: none;
   color: #f72210 !important;
 }
@@ -152,7 +152,7 @@ img {
   padding-right: 6px;
 }
 
-.culture-image-tag>a {
+.culture-image-tag > a {
   color: black !important;
 }
 
@@ -204,6 +204,7 @@ img {
     width: 100%;
     margin: 0 auto;
   }
+
   .btn-box {
     margin-bottom: 0;
   }
@@ -217,8 +218,33 @@ img {
     max-width: 1310px;
     padding: 10px;
   }
+
   .logo-head {
     width: 150px;
     padding-top: 0 !important;
   }
+}
+
+footer {
+  width: 89.3%;
+  margin: auto;
+}
+
+.footer-copyright {
+  font-size: 0.8rem;
+  line-height: 12px;
+  text-transform: uppercase;
+  color: #666;
+  padding-top: 1rem !important;
+}
+
+.footer-social,
+.footer-social a {
+  font-size: 26px !important;
+  color: grey;
+  text-decoration: none !important;
+}
+
+.footer-wrap a {
+  font-size: 13px;
 }
