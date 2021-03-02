@@ -20,6 +20,7 @@ footer {
   width: 89.3%;
   margin: auto;
 }
+
 img {
   cursor: pointer;
 }
@@ -33,7 +34,6 @@ img {
 .top_nav li {
   margin: 10px 5px;
 }
-
 
 .body-wrapper {
   height: auto;
@@ -99,9 +99,6 @@ img {
   color: #f72210;
 }
 
-.vantage {
-  border: none;
-}
 .search_input {
   background-image: url("img/search.png");
   background-size: 20px 20px;
