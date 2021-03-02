@@ -239,6 +239,9 @@ img {
   .header-wrapper {
     width: 91%;
     margin: auto;
+    color: white;
+    background-color: #f72210;
+    max-width: 1310px;
   }
 
   main {
@@ -256,6 +259,9 @@ img {
 
   .logo-head {
     margin-left: 100px;
+    width: 150px;
+    padding-top: 0 !important;
+    margin-top: 20px;
   }
 
   .footer_sep {
@@ -288,6 +294,7 @@ img {
 
   .btn-box {
     margin-right: 0;
+    margin-bottom: 0;
   }
 
   .foot-a {
@@ -336,10 +343,6 @@ img {
     margin: 0;
   }
 
-  .btn-box {
-    margin-bottom: 0;
-  }
-
   .vs-circle {
     width: 30px;
     height: 30px;
@@ -355,17 +358,5 @@ img {
 
   .text-danger {
     color: #f72310;
-  }
-
-  .header-wrapper {
-    color: white;
-    background-color: #f72210;
-    max-width: 1310px;
-  }
-
-  .logo-head {
-    width: 150px;
-    padding-top: 0 !important;
-    margin-top: 20px;
   }
 }
