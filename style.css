@@ -5,7 +5,6 @@ body {
 }
 
 main {
-  height: 1000px;
   background-color: #b7dbff;
   width: 100%;
   margin: auto;
@@ -130,6 +129,7 @@ img {
   z-index: 1;
   margin-left: -150px;
 }
+
 
 /* FOOTER CSS */
 
