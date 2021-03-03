@@ -506,6 +506,12 @@ article {
   color: #fff;
 }
 
+h3:hover,
+h4:hover,
+h6:hover {
+  text-decoration: underline;
+  text-decoration-color: #f61602;
+}
 @media screen and (min-width: 769px) {
   .right ul {
     border-bottom: none;
