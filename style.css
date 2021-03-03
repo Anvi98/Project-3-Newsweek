@@ -527,18 +527,18 @@ h6:hover {
   cursor: pointer;
   text-decoration-color: #f61602;
 }
+
 @media screen and (min-width: 769px) {
   .right ul {
     border-bottom: none;
   }
 
   .login {
-    margin: 10px 10px;
-    margin-bottom: 33px;
+    margin-bottom: 5px;
   }
 
   .suscribe_button {
-    margin: 0 10px 50px 10px;
+    margin-bottom: 10px;
   }
 
   footer {
@@ -557,14 +557,6 @@ h6:hover {
   main {
     width: 91%;
     margin: auto;
-  }
-
-  .suscribe_button {
-    margin-bottom: 10px;
-  }
-
-  .login {
-    margin-bottom: 10px;
   }
 
   .logo-head {
@@ -606,7 +598,7 @@ h6:hover {
 
   .btn-box {
     margin-right: 0;
-    margin-bottom: 0px;
+    margin-bottom: 0;
   }
 
   .foot-a {
