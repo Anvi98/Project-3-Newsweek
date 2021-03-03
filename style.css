@@ -148,6 +148,7 @@ img {
   margin-left: -150px;
 }
 
+
 /* FOOTER CSS */
 
 .footer_top {
@@ -244,7 +245,9 @@ img {
   fill: rgb(43, 43, 170);
 }
 
+
 /* -------------------MID COLUMN --------------- */
+
 article {
   min-height: 130px;
   border-top: 1px solid rgba(3, 3, 3, 0.4);
@@ -365,7 +368,9 @@ article {
   margin: 10px 0 10px 10px;
 }
 
+
 /* RIGHT COLUMN */
+
 .debate {
   border-bottom: 4px solid rgba(3, 3, 3, 0.4);
 }
@@ -666,5 +671,5 @@ h6:hover {
 }
 
 @media screen and (min-width: 968px) {
-  
+
 }
