@@ -1,5 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-  overflow-x: hidden;
   background-color: #f4f5f6;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -40,7 +45,9 @@ img {
 }
 
 .header-wrapper {
+  z-index: 1;
   height: 100px;
+  position: sticky;
   color: white;
   width: 100%;
   margin: auto;
@@ -69,10 +76,16 @@ img {
   font-size: 14px;
 }
 
+.login_box {
+  position: absolute;
+  right: 0;
+  top: 20%;
+}
+
 .logo-head {
-  color: #fff;
+  float: left;
   fill: white;
-  width: 400px;
+  width: 100%;
 }
 
 .header-font {
@@ -163,6 +176,7 @@ img {
 
 .ico {
   width: 22px;
+  flex: 1;
   margin-right: 10px;
   margin-top: 10px;
   fill: #666;
@@ -519,13 +533,12 @@ h6:hover {
   }
 
   .login {
-    margin: 30px 10px;
+    margin: 10px 10px;
     margin-bottom: 33px;
   }
 
   .suscribe_button {
-    margin: 30px 10px;
-    margin-bottom: 35px;
+    margin: 0 10px 50px 10px;
   }
 
   footer {
@@ -546,12 +559,19 @@ h6:hover {
     margin: auto;
   }
 
+  .suscribe_button {
+    margin-bottom: 10px;
+  }
+
+  .login {
+    margin-bottom: 10px;
+  }
+
   .logo-head {
-    margin-left: 100px;
-    min-width: 80px;
+    position: absolute;
+    right: 37%;
+    top: 5%;
     width: 350px;
-    padding: 0;
-    margin-top: 10px;
   }
 
   .footer_sep {
@@ -570,6 +590,8 @@ h6:hover {
 
   .social {
     float: right;
+    display: flex;
+    flex-wrap: wrap;
   }
 
   .footer-links > li {
@@ -584,7 +606,7 @@ h6:hover {
 
   .btn-box {
     margin-right: 0;
-    margin-bottom: 0;
+    margin-bottom: 0px;
   }
 
   .foot-a {
