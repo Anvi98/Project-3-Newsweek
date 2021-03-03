@@ -670,6 +670,6 @@ h6:hover {
   }
 }
 
-@media screen and (min-width: 968px) {
-
+.suscribe {
+  background-color: #f4f5f6;
 }
