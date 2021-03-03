@@ -20,7 +20,9 @@ This project brings us to learn and undestand the different CSS framework.
 - Version Control, Github Flow
 - Introduction to HTML5, CSS3, Bootstrap.
 - Position, Flex, Grid, Floats, RWD
-![screenshot](img/milestone2.png)
+![screenshot](img/screenshot_m3_1)
+![screenshot](img/screenshot_m3_2)
+![screenshot](img/screenshot_m3_3)
 >## Built With
 
 - Major languages: HTML5, CSS3
