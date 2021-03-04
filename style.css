@@ -42,13 +42,16 @@ img {
   margin: 10px 5px;
 }
 
-.top_story a {
+.top_story a,
+article a  {
   color: #000;
 }
 
-.top_story a:hover {
+.top_story a:hover,
+article a:hover {
   color: #000;
 }
+
 
 .body-wrapper {
   height: auto;
