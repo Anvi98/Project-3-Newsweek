@@ -42,6 +42,14 @@ img {
   margin: 10px 5px;
 }
 
+.top_story a {
+  color: #000;
+}
+
+.top_story a:hover {
+  color: #000;
+}
+
 .body-wrapper {
   height: auto;
   width: 1210px;
