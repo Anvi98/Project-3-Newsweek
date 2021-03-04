@@ -44,6 +44,8 @@ img {
 
 .top_story a,
 article a  {
+  margin: 0;
+  padding: 0;
   color: #000;
 }
 
