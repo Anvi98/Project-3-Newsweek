@@ -530,6 +530,17 @@ h6:hover {
   text-decoration-color: #f61602;
 }
 
+
+/* Newsletter Config*/
+
+.newsletter_img {
+  background-image: url("img/newsletter.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 160px;
+}
+
 @media screen and (min-width: 769px) {
   .right ul {
     border-bottom: none;
@@ -537,6 +548,10 @@ h6:hover {
 
   .login {
     margin-bottom: 5px;
+  }
+
+  .newsletter_img {
+    height: auto;
   }
 
   .suscribe_button {
