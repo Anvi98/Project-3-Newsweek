@@ -45,9 +45,11 @@ This project brings us to learn and undestand the different CSS framework.
 
 ### Steps to follow
 
-- Clone the repository to your locaL machine.
+- Clone the repository to your locaL machine by typing this code below in your terminal:
+  git clone git@github.com:Anvi98/Project-3-Newsweek.git
 
 - Open the index.html file with the browser of your preference.
+- Enjoy !!
   
 >## Authors
  👤 **Alex E**
