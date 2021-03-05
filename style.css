@@ -541,20 +541,25 @@ h6:hover {
   .right ul {
     border-bottom: none;
   }
+
   .login {
     margin-bottom: 5px;
   }
+
   .suscribe_button {
     margin-bottom: 10px;
   }
+
   footer {
     width: 89.3%;
     margin: auto;
   }
+
   .col1,
   .col3 {
     display: block;
   }
+
   .header-wrapper {
     width: 91%;
     margin: auto;
@@ -562,16 +567,19 @@ h6:hover {
     background-color: #f72210;
     max-width: 1310px;
   }
+
   main {
     width: 91%;
     margin: auto;
   }
+
   .logo-head {
     position: absolute;
     right: 37%;
     top: 5%;
     width: 350px;
   }
+
   .footer_sep {
     display: block;
     border: 1px solid #8a8a8a;
@@ -581,43 +589,53 @@ h6:hover {
     color: #f4f5f6;
     line-height: 0;
   }
+
   .links {
     padding-top: 20px;
   }
+
   .social {
     float: right;
     display: flex;
     flex-wrap: wrap;
   }
-  .footer-links>li {
+
+  .footer-links > li {
     border-right: none !important;
     padding-top: 0.75rem !important;
   }
+
   .footer-social {
     font-size: 20px;
     padding-top: 0.75rem !important;
   }
+
   .btn-box {
     margin-right: 0;
     margin-bottom: 0;
   }
+
   .foot-a {
     text-decoration: none !important;
     color: #6c757d !important;
   }
+
   .footer-links {
     font-size: 0.85rem;
     line-height: 14px;
     padding-right: 1rem !important;
   }
+
   .footer-section {
     border-top: 1px solid #666;
   }
+
   .logo-footer {
     color: #fff;
     fill: #f72210;
     width: 236px;
   }
+
   .footer-copyright {
     font-size: 0.8rem;
     line-height: 12px;
@@ -625,20 +643,24 @@ h6:hover {
     color: #666;
     padding-top: 1rem !important;
   }
+
   .footer-social,
   .footer-social a {
     font-size: 26px !important;
     color: grey;
     text-decoration: none !important;
   }
+
   .footer-wrap a {
     font-size: 13px;
   }
+
   .body-wrapper {
     width: 100%;
     max-width: 1310px;
     margin: 0;
   }
+
   .vs-circle {
     width: 30px;
     height: 30px;
@@ -647,9 +669,11 @@ h6:hover {
     margin-bottom: -15px;
     z-index: 1;
   }
+
   .btn-danger {
     background-color: #f72310;
   }
+
   .text-danger {
     color: #f72310;
   }
