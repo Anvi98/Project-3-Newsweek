@@ -101,15 +101,6 @@ article a:hover .top_story a:hover {
   width: 100%;
 }
 
-.top_story a,
-article a {
-  color: #000;
-}
-
-.top_story a:hover,
-article a:hover {
-  color: #000;
-}
 .header-font {
   font: bold 13px/24px "Roboto Condensed", sans-serif;
   font-size: 1rem;
