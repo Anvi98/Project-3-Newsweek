@@ -14,11 +14,6 @@ header {
   margin: 65px 0;
 }
 
-footer {
-  width: 100%;
-  margin: auto;
-}
-
 img {
   cursor: pointer;
 }
@@ -71,7 +66,8 @@ img {
 .logo-head {
   float: left;
   fill: white;
-  width: 100%;
+  margin: 10px 0 0 0;
+  width: 50%;
 }
 
 .header-font {
@@ -140,10 +136,6 @@ img {
   color: #666;
   margin: 0 30px;
   padding-top: 30px;
-}
-
-.footer_sep {
-  display: none;
 }
 
 .left {
@@ -400,10 +392,6 @@ article {
   padding-left: 20px;
 }
 
-.cite2 {
-  padding: 0;
-}
-
 .title_debate2 {
   font-weight: bold;
   margin-top: 30px;
@@ -566,6 +554,7 @@ h6:hover {
     display: block;
     border: 1px solid #8a8a8a;
     margin: 0;
+    width: auto ;
     padding: 0;
     background-color: #f4f5f6;
     color: #f4f5f6;
