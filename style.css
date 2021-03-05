@@ -7,6 +7,7 @@
 body {
   background-color: #f4f5f6;
   font-family: 'Roboto Condensed', sans-serif;
+  position: relative;
 }
 
 main {
@@ -22,7 +23,6 @@ header {
 
 footer {
   width: 100%;
-  margin: auto;
 }
 
 img {
@@ -34,8 +34,25 @@ img {
   margin: auto;
 }
 
+.col1,
+.col3 {
+  display: none;
+}
+
 .top_nav li {
   margin: 10px 5px;
+}
+
+.font-head a {
+  font-size: 14px;
+}
+
+article a .top_story a {
+  color: #000;
+}
+
+article a:hover .top_story a:hover {
+  color: #000;
 }
 
 .body-wrapper {
@@ -70,10 +87,6 @@ img {
   background-color: #ffe400;
   margin: 5px 10px;
   font-weight: bolder;
-}
-
-.font-head a {
-  font-size: 14px;
 }
 
 .login_box {
@@ -147,8 +160,6 @@ img {
   z-index: 1;
   margin-left: -150px;
 }
-
-/* FOOTER CSS */
 
 .footer_top {
   background-color: #f4f5f6;
@@ -243,8 +254,6 @@ img {
   cursor: pointer;
   fill: rgb(43, 43, 170);
 }
-
-/* -------------------MID COLUMN --------------- */
 
 article {
   min-height: 130px;
@@ -365,8 +374,6 @@ article {
   font-family: "Roboto Condensed", sans-serif;
   margin: 10px 0 10px 10px;
 }
-
-/* RIGHT COLUMN */
 
 .debate {
   border-bottom: 4px solid rgba(3, 3, 3, 0.4);
@@ -530,6 +537,14 @@ h6:hover {
   text-decoration-color: #f61602;
 }
 
+.newsletter_img {
+  background-image: url("img/newsletter.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 160px;
+}
+
 @media screen and (min-width: 769px) {
   .right ul {
     border-bottom: none;
@@ -539,6 +554,10 @@ h6:hover {
     margin-bottom: 5px;
   }
 
+  .newsletter_img {
+    height: auto;
+  }
+
   .suscribe_button {
     margin-bottom: 10px;
   }
@@ -546,6 +565,11 @@ h6:hover {
   footer {
     width: 89.3%;
     margin: auto;
+  }
+
+  .col1,
+  .col3 {
+    display: block;
   }
 
   .header-wrapper {
