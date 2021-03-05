@@ -20,7 +20,8 @@ This project brings us to learn and undestand the different CSS framework.
 - Version Control, Github Flow
 - Introduction to HTML5, CSS3, Bootstrap.
 - Position, Flex, Grid, Floats, RWD
-![screenshot](img/milestone2.png)
+![screenshot](img/screenshot1.png)
+![screenshot](img/screenshot2.png)
 >## Built With
 
 - Major languages: HTML5, CSS3
@@ -45,11 +46,9 @@ This project brings us to learn and undestand the different CSS framework.
 
 ### Steps to follow
 
-- Clone the repository to your locaL machine by typing this code below in your terminal:
-  git clone git@github.com:Anvi98/Project-3-Newsweek.git
+- Clone the repository to your locaL machine.
 
 - Open the index.html file with the browser of your preference.
-- Enjoy !!
   
 >## Authors
  👤 **Alex E**
