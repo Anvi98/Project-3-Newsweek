@@ -510,7 +510,7 @@ article {
   box-sizing: border-box;
   border: 0 none;
   list-style: none outside none;
-  margin: 0;
+
   outline: 0 none;
   padding: 0;
 }
@@ -582,7 +582,6 @@ h6:hover {
   .footer_sep {
     display: block;
     border: 1px solid #8a8a8a;
-    margin: 0;
     width: auto;
     padding: 0;
     background-color: #f4f5f6;
@@ -658,7 +657,6 @@ h6:hover {
   .body-wrapper {
     width: 100%;
     max-width: 1310px;
-    margin: 0;
   }
 
   .vs-circle {
@@ -793,7 +791,6 @@ h6:hover {
   .body-wrapper {
     width: 100%;
     max-width: 1310px;
-    margin: 0;
   }
 
   .vs-circle {
