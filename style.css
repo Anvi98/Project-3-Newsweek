@@ -40,7 +40,6 @@ article a:hover,
 .top_nav2 {
   width: 91%;
   max-width: 1315px;
-
 }
 
 .top_nav li {
@@ -230,7 +229,8 @@ article {
 
 .articles {
   position: relative;
-  /* Obliiged to use this width intead of the bootstrap to maintain our style*/
+
+  /* Obliiged to use this width intead of the bootstrap to maintain our style */
   width: 100%;
 }
 
@@ -517,6 +517,7 @@ h6:hover {
     line-height: 30px;
     background-color: #ffe400;
     margin: 5px 10px;
+    margin-bottom: 10px;
   }
 
   .header-wrapper {
@@ -528,10 +529,6 @@ h6:hover {
 
   main {
     width: 91%;
-  }
-
-  .suscribe_button {
-    margin-bottom: 10px;
   }
 
   .login {
