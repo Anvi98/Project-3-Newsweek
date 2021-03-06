@@ -213,14 +213,9 @@ img {
 }
 
 .brand {
-  display: block;
   width: 236px;
   height: 36px;
   fill: #f72210;
-}
-
-.nav_bottom {
-  display: block;
 }
 
 .nav_bottom ul li {
@@ -343,10 +338,6 @@ article {
 .travel2,
 .travel3 {
   position: relative;
-}
-
-.info {
-  display: block;
 }
 
 .story_img {
@@ -719,7 +710,6 @@ h6:hover {
   }
 
   .footer_sep {
-    display: block;
     background-color: #f4f5f6;
     color: #f4f5f6;
     line-height: 0;
