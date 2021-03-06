@@ -14,10 +14,30 @@ header {
   margin: 65px 0;
 }
 
+article a {
+  color: #000;
+  text-decoration: none;
+}
+article a:hover {
+  color: #000;
+}
+
+.sponsor_details a {
+  color: #000;
+  text-decoration: none;
+}
+
 img {
   cursor: pointer;
 }
 
+.opi a {
+  text-decoration: none;
+  color: #000;
+}
+.opi a:hover {
+  color: #000;
+}
 .top_nav2 {
   width: 91%;
   margin: auto;
@@ -258,6 +278,8 @@ article {
   font-size: 22px;
   padding-top: 10px;
   font-weight: bold;
+  color: #000;
+  text-decoration: none;
   font-family: "Roboto Condensed", sans-serif;
 }
 
@@ -267,6 +289,7 @@ article {
 }
 
 .article_wrap {
+  color: #000;
   position: relative;
 }
 
@@ -360,6 +383,16 @@ article {
   padding-bottom: 20px;
 }
 
+.debate_details a,
+.debate_details2 a {
+  text-decoration: none;
+  color: #000;
+}
+
+.debate_details2 a:hover {
+  color: #000;
+}
+
 .debate_details2 {
   border-top: 1px solid rgba(3, 3, 3, 0.4);
   border-bottom: 4px solid rgba(3, 3, 3, 0.4);
@@ -386,6 +419,8 @@ article {
 .title_debate {
   font-weight: bold;
   padding-left: 80px;
+  color: #000;
+  text-decoration: none;
 }
 
 .cite {
