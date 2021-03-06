@@ -11,6 +11,7 @@ body {
 
 main {
   border-top: 1px solid #dee2e6;
+  max-width: 1315px;
 }
 
 header {
@@ -38,6 +39,7 @@ article a:hover,
 
 .top_nav2 {
   width: 91%;
+  max-width: 1315px;
 
 }
 
