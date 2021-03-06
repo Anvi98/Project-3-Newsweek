@@ -439,7 +439,6 @@ article {
 
 .opi .author {
   font-size: 13px;
-  text-transform: uppercase;
   font-weight: bold;
   color: #666;
   margin-left: 80px;
@@ -623,13 +622,7 @@ h6:hover {
     width: 236px;
   }
 
-  .footer-copyright {
-    font-size: 0.8rem;
-    line-height: 12px;
-    text-transform: uppercase;
-    color: #666;
-    padding-top: 1rem !important;
-  }
+
 
   .footer-social,
   .footer-social a {
@@ -754,14 +747,6 @@ h6:hover {
     color: #fff;
     fill: #f72210;
     width: 236px;
-  }
-
-  .footer-copyright {
-    font-size: 0.8rem;
-    line-height: 12px;
-    text-transform: uppercase;
-    color: #666;
-    padding-top: 1rem !important;
   }
 
   .footer-social,
