@@ -169,7 +169,6 @@ img {
 
 .left {
   flex-wrap: wrap;
-  padding: 0;
 }
 
 .right ul {
@@ -198,7 +197,6 @@ img {
 .links ul {
   list-style: none;
   flex-wrap: wrap;
-  padding: 0;
 }
 
 .editions_top {
@@ -720,14 +718,10 @@ h6:hover {
     top: 10%;
     margin: auto;
     width: 350px;
-    padding: 0;
   }
 
   .footer_sep {
     display: block;
-    border: 1px solid #8a8a8a;
-    margin: 0;
-    padding: 0;
     background-color: #f4f5f6;
     color: #f4f5f6;
     line-height: 0;
