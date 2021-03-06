@@ -17,39 +17,21 @@ header {
   margin: 65px 0 10px 0;
 }
 
-article a {
+/*We grouped the selectors here, we didn't use the bootstrap property text-black-100 directly on the html to avoid repeating 
+ourselve */
+article a,
+.sponsor_details a,
+.opi a,
+.debate_details a,
+.debate_details2 a {
   color: #000;
-
 }
 
 .font-head a {
   font-size: 14px;
 }
 
-.opi a {
-  text-decoration: none;
-  color: #000;
-}
-
-.debate_details a,
-.debate_details2 a {
-  text-decoration: none;
-  color: #000;
-}
-
-.sponsor_details a {
-  color: #000;
-  text-decoration: none;
-}
-
-article a:hover {
-  color: #000;
-}
-
-img {
-  cursor: pointer;
-}
-
+article a:hover,
 .opi a:hover {
   color: #000;
 }
@@ -61,12 +43,6 @@ img {
 
 .top_nav li {
   margin: 10px 5px;
-}
-
-.body-wrapper {
-  height: auto;
-  width: 1210px;
-  margin: 0 auto;
 }
 
 .header-wrapper {
@@ -291,7 +267,6 @@ article {
 }
 
 .article_wrap {
-  color: #000;
   position: relative;
 }
 
@@ -312,7 +287,6 @@ article {
   font: bold 13px "Roboto Condensed", sans-serif;
   background-color: rgba(255, 255, 255, 0.9);
   padding: 8px 15px 9px;
-  color: #000;
 }
 
 .category3 {
