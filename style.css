@@ -172,7 +172,6 @@ img {
 }
 
 .right ul {
-  display: flex;
   list-style: none;
   padding-left: 0;
   padding-bottom: 20px;
@@ -213,14 +212,9 @@ img {
 }
 
 .brand {
-  display: block;
   width: 236px;
   height: 36px;
   fill: #f72210;
-}
-
-.nav_bottom {
-  display: block;
 }
 
 .nav_bottom ul li {
@@ -345,10 +339,6 @@ article {
   position: relative;
 }
 
-.info {
-  display: block;
-}
-
 .story_img {
   width: 95px;
   height: 95px;
@@ -449,7 +439,6 @@ article {
 
 .opi .author {
   font-size: 13px;
-  text-transform: uppercase;
   font-weight: bold;
   color: #666;
   margin-left: 80px;
@@ -476,7 +465,6 @@ article {
 }
 
 .label_title {
-  display: flex;
   align-items: center;
   font: bold 19px/19px "Roboto Condensed", sans-serif;
   margin-bottom: 15px;
@@ -510,7 +498,6 @@ article {
   box-sizing: border-box;
   border: 0 none;
   list-style: none outside none;
-
   outline: 0 none;
   padding: 0;
 }
@@ -595,7 +582,6 @@ h6:hover {
 
   .social {
     float: right;
-    display: flex;
     flex-wrap: wrap;
   }
 
@@ -633,14 +619,6 @@ h6:hover {
     color: #fff;
     fill: #f72210;
     width: 236px;
-  }
-
-  .footer-copyright {
-    font-size: 0.8rem;
-    line-height: 12px;
-    text-transform: uppercase;
-    color: #666;
-    padding-top: 1rem !important;
   }
 
   .footer-social,
@@ -719,7 +697,6 @@ h6:hover {
   }
 
   .footer_sep {
-    display: block;
     background-color: #f4f5f6;
     color: #f4f5f6;
     line-height: 0;
@@ -767,14 +744,6 @@ h6:hover {
     color: #fff;
     fill: #f72210;
     width: 236px;
-  }
-
-  .footer-copyright {
-    font-size: 0.8rem;
-    line-height: 12px;
-    text-transform: uppercase;
-    color: #666;
-    padding-top: 1rem !important;
   }
 
   .footer-social,
