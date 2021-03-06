@@ -498,7 +498,6 @@ article {
   box-sizing: border-box;
   border: 0 none;
   list-style: none outside none;
-
   outline: 0 none;
   padding: 0;
 }
@@ -621,8 +620,6 @@ h6:hover {
     fill: #f72210;
     width: 236px;
   }
-
-
 
   .footer-social,
   .footer-social a {
