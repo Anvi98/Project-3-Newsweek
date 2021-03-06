@@ -11,7 +11,7 @@ main {
 
 header {
   width: 100%;
-  margin: 65px 0;
+  margin: 65px 0 10px 0;
 }
 
 article a {
@@ -86,7 +86,7 @@ img {
 .logo-head {
   float: left;
   fill: white;
-  margin: 10px 0 0 0;
+  margin: auto;
   width: 50%;
 }
 
@@ -578,13 +578,6 @@ h6:hover {
     margin-bottom: 10px;
   }
 
-  .logo-head {
-    position: absolute;
-    right: 30%;
-    top: 5%;
-    width: 350px;
-  }
-
   .footer_sep {
     display: block;
     border: 1px solid #8a8a8a;
@@ -719,11 +712,12 @@ h6:hover {
   }
 
   .logo-head {
-    margin-left: 100px;
-    min-width: 80px;
+    position: absolute;
+    right: 30%;
+    top: 10%;
+    margin: auto;
     width: 350px;
     padding: 0;
-    margin-top: 10px;
   }
 
   .footer_sep {
