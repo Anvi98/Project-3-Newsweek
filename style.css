@@ -17,7 +17,7 @@ header {
   margin: 65px 0 10px 0;
 }
 
-/*We grouped the selectors here, we didn't use the bootstrap property text-black-100 directly on the html to avoid repeating 
+/* We grouped the selectors here, we didn't use the bootstrap property text-black-100 directly on the html to avoid repeating
 ourselve */
 article a,
 .sponsor_details a,
