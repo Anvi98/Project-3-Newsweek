@@ -142,6 +142,7 @@ article a:hover,
   color: #666;
   margin: 0 30px;
   padding-top: 30px;
+  border-bottom: 1px solid rgb(173, 173, 173);
 }
 
 .left {
@@ -531,16 +532,6 @@ h6:hover {
     margin-bottom: 10px;
   }
 
-  .footer_sep {
-    display: block;
-    border: 1px solid #8a8a8a;
-    width: auto;
-    padding: 0;
-    background-color: #f4f5f6;
-    color: #f4f5f6;
-    line-height: 0;
-  }
-
   .links {
     padding-top: 20px;
   }
@@ -659,12 +650,6 @@ h6:hover {
     top: 10%;
     margin: auto;
     width: 350px;
-  }
-
-  .footer_sep {
-    background-color: #f4f5f6;
-    color: #f4f5f6;
-    line-height: 0;
   }
 
   .links {
