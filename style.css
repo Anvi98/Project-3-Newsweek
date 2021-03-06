@@ -172,7 +172,6 @@ img {
 }
 
 .right ul {
-  display: flex;
   list-style: none;
   padding-left: 0;
   padding-bottom: 20px;
@@ -467,7 +466,6 @@ article {
 }
 
 .label_title {
-  display: flex;
   align-items: center;
   font: bold 19px/19px "Roboto Condensed", sans-serif;
   margin-bottom: 15px;
@@ -586,7 +584,6 @@ h6:hover {
 
   .social {
     float: right;
-    display: flex;
     flex-wrap: wrap;
   }
 
