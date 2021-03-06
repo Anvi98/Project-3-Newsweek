@@ -18,7 +18,19 @@ article a {
   color: #000;
   text-decoration: none;
 }
-article a:hover {
+
+.font-head a {
+  font-size: 14px;
+}
+
+.opi a {
+  text-decoration: none;
+  color: #000;
+}
+
+.debate_details a,
+.debate_details2 a {
+  text-decoration: none;
   color: #000;
 }
 
@@ -27,17 +39,18 @@ article a:hover {
   text-decoration: none;
 }
 
+article a:hover {
+  color: #000;
+}
+
 img {
   cursor: pointer;
 }
 
-.opi a {
-  text-decoration: none;
-  color: #000;
-}
 .opi a:hover {
   color: #000;
 }
+
 .top_nav2 {
   width: 91%;
   margin: auto;
@@ -77,10 +90,6 @@ img {
   background-color: #ffe400;
   margin: 5px 10px;
   font-weight: bolder;
-}
-
-.font-head a {
-  font-size: 14px;
 }
 
 .logo-head {
@@ -381,12 +390,6 @@ article {
 .debate_details {
   border-bottom: 1px solid rgba(3, 3, 3, 0.4);
   padding-bottom: 20px;
-}
-
-.debate_details a,
-.debate_details2 a {
-  text-decoration: none;
-  color: #000;
 }
 
 .debate_details2 a:hover {
