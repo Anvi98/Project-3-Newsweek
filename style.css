@@ -38,7 +38,7 @@ article a:hover,
 
 .top_nav2 {
   width: 91%;
-  margin: auto;
+
 }
 
 .top_nav li {
@@ -49,8 +49,6 @@ article a:hover,
   height: 100px;
   position: relative;
   color: white;
-  width: 100%;
-  margin: auto;
   background-color: #f72210;
   padding: 0 10px;
 }
@@ -60,20 +58,18 @@ article a:hover,
 }
 
 .suscribe_button {
-  width: 130px;
+  width: 100px;
   border-radius: 24px;
-  font-size: 18px;
+  font-size: 10px;
   font-family: 'Roboto Condensed', sans-serif;
-  line-height: 30px;
+  line-height: 20px;
   background-color: #ffe400;
   margin: 5px 10px;
 }
 
 .logo-head {
-  float: left;
   fill: white;
-  margin: auto;
-  width: 50%;
+  width: 30%;
 }
 
 .header-font {
@@ -228,11 +224,11 @@ article {
 
 .col2 {
   margin: 5px;
-  padding: 0;
 }
 
 .articles {
   position: relative;
+  /* Obliiged to use this width intead of the bootstrap to maintain our style*/
   width: 100%;
 }
 
@@ -342,6 +338,7 @@ article {
   border-bottom: 4px solid rgba(3, 3, 3, 0.4);
 }
 
+/* Here we didn't use directlly the property of bootstrap because it does not affect the style, so we force it by using a selector */
 .debate_img {
   float: left;
 }
@@ -508,12 +505,20 @@ h6:hover {
 
   footer {
     width: 89.3%;
-    margin: auto;
+  }
+
+  .suscribe_button {
+    width: 130px;
+    border-radius: 24px;
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 30px;
+    background-color: #ffe400;
+    margin: 5px 10px;
   }
 
   .header-wrapper {
     width: 91%;
-    margin: auto;
     color: white;
     background-color: #f72210;
     max-width: 1310px;
@@ -521,7 +526,6 @@ h6:hover {
 
   main {
     width: 91%;
-    margin: auto;
   }
 
   .suscribe_button {
@@ -626,38 +630,15 @@ h6:hover {
     margin-bottom: 35px;
   }
 
-  footer {
-    width: 89.3%;
-    margin: auto;
-  }
-
-  .header-wrapper {
-    width: 91%;
-    margin: auto;
-    color: white;
-    background-color: #f72210;
-    max-width: 1310px;
-  }
-
-  main {
-    width: 91%;
-    margin: auto;
-  }
-
   .logo-head {
     position: absolute;
     right: 35%;
     top: 10%;
-    margin: auto;
     width: 350px;
   }
 
   .links {
     padding-top: 20px;
-  }
-
-  .social {
-    float: right;
   }
 
   .footer-links > li {
@@ -676,7 +657,6 @@ h6:hover {
   }
 
   .foot-a {
-    text-decoration: none !important;
     color: #6c757d !important;
   }
 
@@ -698,34 +678,11 @@ h6:hover {
 
   .footer-social,
   .footer-social a {
-    font-size: 26px !important;
+    font-size: 26px;
     color: grey;
-    text-decoration: none !important;
   }
 
   .footer-wrap a {
     font-size: 13px;
-  }
-
-  .body-wrapper {
-    width: 100%;
-    max-width: 1310px;
-  }
-
-  .vs-circle {
-    width: 30px;
-    height: 30px;
-    font-size: 0.8em;
-    margin-top: -14px;
-    margin-bottom: -15px;
-    z-index: 1;
-  }
-
-  .btn-danger {
-    background-color: #f72310;
-  }
-
-  .text-danger {
-    color: #f72310;
   }
 }
